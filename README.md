@@ -1,1 +1,1 @@
-# Data-Mining-Machine-Learning-Projects
+# Data-Mining-and-Machine-Learning-Projects
